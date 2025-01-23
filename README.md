@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Bachelor of Technology in Information Technology at Netaji Subhash Engineering College\
+🎓 &nbsp;I'd done Bachelor of Technology in Information Technology at Netaji Subhash Engineering College\
 🌱 &nbsp;I am passionate to be Software developer / frontend developer and want to contribute towards the growth of a renowned organization.
 
 📄 &nbsp;Please have a look at my [Résumé](#) for more details about me. I'm open to feedback and suggestions!
